@@ -17,14 +17,14 @@ Homepage: <http://jfisher-usgs.github.com>
 	
 - Ph.D. in Civil Engineering, 
   University of California Los Angeles ([UCLA](http://www.cee.ucla.edu/)), 
-  hydrology and water resources program, recieved May 2005
+  hydrology and water resources program, received May 2005
 - M.S. in Civil Engineering, UCLA, hydrology and water 
-  resources program, recieved March 2003
+  resources program, received March 2003
 - M.S. in Environmental Systems, Humboldt State University 
   ([HSU](http://www.humboldt.edu/engineering/)), environmental resources 
-  engineering option, recieved May 2000
+  engineering option, received May 2000
 - B.S. in Environmental Resources Engineering, HSU, 
-  water resources emphasis, recieved May 1998
+  water resources emphasis, received May 1998
 
 ### Experience
 
