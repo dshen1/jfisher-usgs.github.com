@@ -17,14 +17,14 @@ Homepage: <http://jfisher-usgs.github.com>
 	
 - Ph.D. in Civil Engineering, 
   University of California Los Angeles ([UCLA](http://www.cee.ucla.edu/)), 
-  hydrology and water resources program, May 2005
+  hydrology and water resources program, recieved May 2005
 - M.S. in Civil Engineering, UCLA, hydrology and water 
-  resources program, March 2003
+  resources program, recieved March 2003
 - M.S. in Environmental Systems, Humboldt State University 
   ([HSU](http://www.humboldt.edu/engineering/)), environmental resources 
-  engineering option, May 2000
+  engineering option, recieved May 2000
 - B.S. in Environmental Resources Engineering, HSU, 
-  water resources emphasis, May 1998
+  water resources emphasis, recieved May 1998
 
 ### Experience
 
@@ -98,7 +98,7 @@ Homepage: <http://jfisher-usgs.github.com>
 - American Geophysical Union ([AGU](http://www.agu.org/)) 
   Fall Meeting, San Francisco, CA, Dec. 14, 2010, 
   Multilevel groundwater monitoring of hydraulic head and temperature in the 
-  eastern Snake River Plain aquifer, 2007-08: [pptx](/docs/AGU_Fall_2010.pptx)
+  eastern Snake River Plain aquifer, 2007--08: [pptx](/docs/AGU_Fall_2010.pptx)
 - AGU Fall Meeting, San Francisco, CA, Dec. 15, 2009, Steady-state and transient 
   groundwater flow and advective transport, ESRP aquifer, INL and vicinity, ID: 
   [pptx](/docs/AGU_Fall_2009.pptx)
@@ -106,7 +106,7 @@ Homepage: <http://jfisher-usgs.github.com>
 ### Certificates and Honors
 
 - UCLA Civil and Environmental Engineering departmental fellowship, 
-  2000-01 academic year
+  2000--01 academic year
 - Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php), 
   license number XE104350, issued on Jan. 29, 1998
 
