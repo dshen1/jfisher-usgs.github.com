@@ -162,6 +162,6 @@ help with content creation in your favorite text editor.
 
 ## References
 
-<http://jekyllbootstrap.com/lessons/jekyll-introduction.html>
-<http://zolomon.com/tutorial/2012/02/23/setting-up-jekyll-on-windows-7>
+<http://jekyllbootstrap.com/lessons/jekyll-introduction.html>  
+<http://zolomon.com/tutorial/2012/02/23/setting-up-jekyll-on-windows-7>  
 <http://twitter.github.com/bootstrap/index.html>
