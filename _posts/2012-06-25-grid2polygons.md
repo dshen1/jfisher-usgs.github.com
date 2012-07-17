@@ -148,22 +148,22 @@ The size of the postscript file created from the polygon image (1.89 MB) is
 {% highlight r %}
 dem.plys <- Grid2Polygons(DEM, level = TRUE, at = at)
 z <- dem.plys[[1]]
-col.idxs <- findInterval(z, sort(unique(na.omit(z))))
-cols <- terrain.colors(max(col.idxs))[col.idxs]
+col.idxs <- findInterval(z, at)
+cols <- terrain.colors(length(at) - 1)[col.idxs]
 plot(dem.plys, border = "transparent", col = cols)
 {% endhighlight %}
 
 ![center](/figs/2012-06-25-grid2polygons/fig5.png) 
 ##### Figure 5: Topographic information represented with spatial polygons.
 
-Finally, remove the Albers projection from the spatial polygons object
+Finally, transform the projection of the spatial polygons object
 (1.5 seconds) and replot (**fig. 6**).
 
 {% highlight r %}
-dem.plys.ll <- rgdal::spTransform(dem.plys, CRS = CRS("+proj=longlat +datum=WGS84"))
+dem.plys.ll <- rgdal::spTransform(dem.plys, CRS = CRS("+proj=eqc"))
 plot(dem.plys.ll, border = "transparent", col = cols)
 par(op)
 {% endhighlight %}
 
 ![center](/figs/2012-06-25-grid2polygons/fig6.png) 
-##### Figure 6: Topographic information represented with spatial polygons, projection removed.
+##### Figure 6: Topographic information represented with spatial polygons and new projection.
