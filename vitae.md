@@ -47,7 +47,7 @@ Homepage: <http://jfisher-usgs.github.com>
 - 2000--01, Computer Programmer, USDA Forest Service, Pacific Southwest 
   Research Station, Redwood Sciences Laboratory 
   ([RSL](http://www.fs.fed.us/psw/))
-- 1997--2000, Hydrologic Technician, USDA Forest Service, Pacific Southwest 
+- 1997--00, Hydrologic Technician, USDA Forest Service, Pacific Southwest 
   Research Station, RSL
 
 ### Publications
