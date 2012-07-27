@@ -160,8 +160,8 @@ Finally, transform the projection of the spatial polygons object
 (1.5 seconds) and replot (**fig. 6**).
 
 {% highlight r %}
-dem.plys.ll <- rgdal::spTransform(dem.plys, CRS = CRS("+proj=eqc"))
-plot(dem.plys.ll, border = "transparent", col = cols)
+dem.plys.trans <- rgdal::spTransform(dem.plys, CRS = CRS("+proj=eqc"))
+plot(dem.plys.trans, border = "transparent", col = cols)
 par(op)
 {% endhighlight %}
 
