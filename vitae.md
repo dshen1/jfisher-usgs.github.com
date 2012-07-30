@@ -100,8 +100,8 @@ Homepage: <http://jfisher-usgs.github.com>
   Multilevel groundwater monitoring of hydraulic head and temperature in the 
   eastern Snake River Plain aquifer, 2007--08: [pptx](/docs/AGU_Fall_2010.pptx)
 - AGU Fall Meeting, San Francisco, CA, Dec. 15, 2009, Steady-state and transient 
-  groundwater flow and advective transport, ESRP aquifer, INL and vicinity, ID: 
-  [pptx](/docs/AGU_Fall_2009.pptx)
+  groundwater flow and advective transport, eastern Snake River Plain aquifer, 
+  Idaho National Laboratory and vicinity, Idaho: [pptx](/docs/AGU_Fall_2009.pptx)
 
 ### Certificates and Honors
 
