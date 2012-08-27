@@ -52,6 +52,12 @@ Homepage: <http://jfisher-usgs.github.com>
 
 ### Publications
 
+- **Fisher, J.C.**, Rousseau, J.P., Bartholomay, R.C, and Rattray, G.W., 2012, 
+  A comparison of U.S. Geological Survey three-dimensional model estimates of 
+  groundwater source areas and velocities to independently derived estimates, 
+  Idaho National Laboratory and vicinity, Idaho: U.S. Geological Survey 
+  Scientific Investigations Report 2012-5152 (DOE/ID-22218), 130 p.,
+  [html](http://pubs.usgs.gov/sir/2012/5152/)
 - **Fisher, J.C.**, and Twining, B.V., 2011, Multilevel groundwater monitoring of 
   hydraulic head and temperature in the eastern Snake River Plain aquifer, 
   Idaho National Laboratory, Idaho, 2007--08:, U.S. Geological Survey 
