@@ -52,6 +52,12 @@ Homepage: <http://jfisher-usgs.github.com>
 
 ### Publications
 
+- Bartholomay, R.C., Davis, L.C., **Fisher, J.C.**, Tucker, B.J., and 
+  Raben, F.A., 2012, Water-quality characteristics and trends for selected 
+  sites at and near the Idaho National Laboratory, Idaho, 1949–2009: 
+  U.S. Geological Survey Scientific Investigations Report 2012–5169 
+  (DOE/ID 22219), 68 p. plus appendixes, 
+  [html](http://pubs.usgs.gov/sir/2012/5169/)
 - **Fisher, J.C.**, Rousseau, J.P., Bartholomay, R.C, and Rattray, G.W., 2012, 
   A comparison of U.S. Geological Survey three-dimensional model estimates of 
   groundwater source areas and velocities to independently derived estimates, 
