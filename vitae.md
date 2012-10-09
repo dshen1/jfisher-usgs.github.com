@@ -107,6 +107,13 @@ Homepage: <http://jfisher-usgs.github.com>
 
 ### Selected Presentations
 
+- USGS Data Conference, Portland, OR, Sep. 25, 2012, Optimization of 
+  water-table monitoring networks in the eastern Snake River Plain aquifer 
+  using a kriging-based genetic algorithm methodology: 
+  [pptx](/docs/DataConf_2012.pptx)
+- Idaho Water Resources Research Institute, ID, Sep. 27, 2009, A comparison 
+  of USGS 3-D model estimates of groundwater source areas and velocities to 
+  independently-derived estimates, INL and vicinity: [pptx](/docs/UI_2011.pptx)
 - American Geophysical Union ([AGU](http://www.agu.org/)) 
   Fall Meeting, San Francisco, CA, Dec. 14, 2010, 
   Multilevel groundwater monitoring of hydraulic head and temperature in the 
