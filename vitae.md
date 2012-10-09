@@ -107,7 +107,7 @@ Homepage: <http://jfisher-usgs.github.com>
 
 ### Selected Presentations
 
-- USGS Data Conference, Portland, OR, Sep. 25, 2012, Optimization of 
+- USGS Data Conference, Portland, OR, Sep. 25, 2012, Optimization of
   water-table monitoring networks in the eastern Snake River Plain aquifer 
   using a kriging-based genetic algorithm methodology: 
   [pptx](/docs/DataConf_2012.pptx)
