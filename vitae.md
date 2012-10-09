@@ -111,7 +111,7 @@ Homepage: <http://jfisher-usgs.github.com>
   water-table monitoring networks in the eastern Snake River Plain aquifer 
   using a kriging-based genetic algorithm methodology: 
   [pptx](/docs/DataConf_2012.pptx)
-- Idaho Water Resources Research Institute, ID, Sep. 27, 2009, A comparison 
+- Idaho Water Resources Research Institute, ID, Sep. 27, 2011, A comparison 
   of USGS 3-D model estimates of groundwater source areas and velocities to 
   independently-derived estimates, INL and vicinity: [pptx](/docs/UI_2011.pptx)
 - American Geophysical Union ([AGU](http://www.agu.org/)) 
