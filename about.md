@@ -16,6 +16,4 @@ additional information. A tutorial on building this blog is available
 ![center](/figs/tower.jpg) 
 ##### "Hills cherish the ambition to turn into partial differential equations." --Donald Hall
 
-[![center](/figs/linkedin.png)](http://www.linkedin.com/pub/jason-fisher/16/9a9/197)
-
 [![center](/figs/github.png)](https://github.com/jfisher-usgs)
