@@ -8,9 +8,8 @@ header: Vitae
 
 ### Contact
 
-USGS INL Project Office,
-1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415  
-Email: jfisher@usgs.gov; Tel: 208-526-2158
+USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415  
+Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Education
 
@@ -55,12 +54,11 @@ Email: jfisher@usgs.gov; Tel: 208-526-2158
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
   (DOE/ID-22224), 74 p.,
-  [html](http://pubs.usgs.gov/sir/2013/5120/).
-
+  [html](http://pubs.usgs.gov/sir/2013/5120/)
 - Twining, B.V., and **Fisher, J.C.**, 2012, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2009--10: U.S. Geological Survey Scientific
-  Investigations Report 2012-5259, 44 p., plus appendixes.,
+  Investigations Report 2012-5259, 44 p., plus appendixes,
   [html](http://pubs.usgs.gov/sir/2012/5259/)
 - Bartholomay, R.C., Davis, L.C., **Fisher, J.C.**, Tucker, B.J., and
   Raben, F.A., 2012, Water-quality characteristics and trends for selected
