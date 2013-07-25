@@ -8,7 +8,7 @@ header: cv
 
 ### Contact
 
-USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415
+USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415  
 Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Education
@@ -122,10 +122,6 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Talks
 
-- [Montana Tech](http://geology.isu.edu/) of the University of Montana Department
-  of Geological Engineering Colloquium, Butte, MO, Apr. 3, 2013, Optimization of
-  water-table monitoring networks in the eastern Snake River Plain aquifer using
-  a kriging-based genetic algorithm methodology.
 - USGS National Water Data Conference, Portland, OR, Sep. 25, 2012,
   Optimization of water-table monitoring networks in the eastern Snake River
   Plain aquifer using a kriging-based genetic algorithm methodology.
@@ -160,9 +156,9 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Posters
 
-- USGS National Groundwater Workshop, Denver, CO, August, 7, 2012, Optimization
-  of the ESRP GW observation networks using a kriging-based genetic algorithm
-  methodology.
+- USGS National Groundwater Workshop, Denver, CO, August, 7, 2012, A comparison
+  of model estimates of groundwater source areas and velocities to
+  independently-derived estimates.
 - AGU Fall Meeting, San Francisco, CA, Dec. 7, 2011, Comparing model-derived to
   independently-derived estimates of the source and age of groundwater, Idaho
   National Laboratory and vicinity, Idaho.
