@@ -9,7 +9,7 @@ tagline: Jason C Fisher
 
 A hydrologist with the U.S. Geological Survey.
 My interests include groundwater modeling, optimization techniques,
-[infographics](/lessons/2012/05/31/infographics/), and
+[infographics](/art/2012/05/31/infographics/), and
 [software development](https://github.com/jfisher-usgs).
 See [curriculum vitae](/cv.html) for
 additional information. A tutorial on building this blog is available
