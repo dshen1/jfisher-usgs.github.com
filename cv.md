@@ -48,6 +48,13 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 - 1997--00, Hydrologic Technician, USDA Forest Service, Pacific Southwest
   Research Station, RSL
 
+### Certificates and Honors
+
+- UCLA Civil and Environmental Engineering departmental fellowship,
+  2000--01 academic year
+- Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php),
+  license number XE104350, issued on Jan. 29, 1998
+
 ### Publications
 
 - **Fisher, J.C.**, 2013, Optimization of water-level monitoring networks in the
@@ -166,25 +173,30 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
   and water quality observations combining stationary and mobile sensor network
   nodes.
 - AGU Fall Meeting, San Francisco, CA, Dec. 15, 2004, A coupled systems approach
-  to solute transport within a heterogeneous vadose zone-groundwater environment.
+  to solute transport within a heterogeneous vadose zone--groundwater environment.
 - AGU Chapman Conference on State-of-the-Art in Hillslope Hydrology, Sunriver,
-  OR, Oct. 8, 2001, Simulation of partially saturated - saturated flow in
+  OR, Oct. 8, 2001, Simulation of partially saturated--saturated flow in
   the Caspar Creek E-Road groundwater system.
 
-### Certificates and Honors
+### Software
 
-- UCLA Civil and Environmental Engineering departmental fellowship,
-  2000--01 academic year
-- Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php),
-  license number XE104350, issued on Jan. 29, 1998
+- Author of [RSurvey](https://github.com/jfisher-usgs/RSurvey),
+  a processing program for spatially distributed data.
 
-### Membership in Professional Societies
+- Author of  [ObsNetwork](https://github.com/jfisher-usgs/ObsNetwork),
+  evaluates and optimizes long-term monitoring networks using a kriging-based
+  genetic algorithm method.
 
-- AGU, member since 1998
+- Co-author of [colorspace](http://cran.r-project.org/web/packages/colorspace/),
+  a color space manipulation tool.
 
 ### Service
 
 - Reviewer: USGS,
   [Journal of Hydrology](http://www.journals.elsevier.com/journal-of-hydrology/)
+
+### Professional Organizations
+
+- Member of the AGU, since 1998
 
 ![center](/figs/cv.jpg)
