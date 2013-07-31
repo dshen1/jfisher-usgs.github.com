@@ -180,8 +180,7 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
   a processing program for spatially distributed data.
 
 - Author of  [ObsNetwork](https://github.com/jfisher-usgs/ObsNetwork),
-  evaluates and optimizes long-term monitoring networks using a kriging-based
-  genetic algorithm method.
+  a tool for evaluating and optimizing long-term monitoring networks.
 
 - Co-author of [colorspace](http://cran.r-project.org/web/packages/colorspace/),
   a color space manipulation tool.
