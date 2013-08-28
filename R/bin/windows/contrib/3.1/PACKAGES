@@ -1,0 +1,4 @@
+Package: ObsNetwork
+Version: 0.1-8
+Depends: R (>= 3.0), tcltk, raster, sp, rgdal, gstat, GA
+License: file LICENSE

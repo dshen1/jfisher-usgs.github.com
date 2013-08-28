@@ -8,7 +8,7 @@ header: cv
 
 ### Contact
 
-USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415  
+USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415
 Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Education
@@ -125,9 +125,9 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 - USGS National Water Data Conference, Portland, OR, Sep. 25, 2012,
   Optimization of water-table monitoring networks in the eastern Snake River
   Plain aquifer using a kriging-based genetic algorithm methodology.
-- Idaho Water Resources Research Institute, ID, Sep. 27, 2011, A comparison
-  of USGS 3-D model estimates of groundwater source areas and velocities to
-  independently-derived estimates, INL and vicinity.
+- Water Resource Seminar Series, University of Idaho, ID, Sep. 27, 2011,
+  A comparison of USGS 3-D model estimates of groundwater source areas and
+  velocities to independently-derived estimates, INL and vicinity.
 - INL Monitoring and Surveillance Committee Meeting, Idaho Falls, ID, May 19,
   2011, An evaluation of the USGS 3-D model using backward particle-tracking
   to compare model-derived to independently-derived estimates of the source
