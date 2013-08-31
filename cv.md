@@ -177,9 +177,11 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 ### Software
 
 - Author of [RSurvey](https://github.com/jfisher-usgs/RSurvey),
-  a processing program for spatially distributed data; and
+  a processing program for spatially distributed data; 
   [ObsNetwork](https://github.com/jfisher-usgs/ObsNetwork),
-  a tool for evaluating and optimizing long-term monitoring networks.
+  evaluates and optimizes long-term monitoring networks; and
+  [Grid2Polygons](https://github.com/jfisher-usgs/Grid2Polygons),
+  converts spatial grids to polygons.
 
 - Co-author of [colorspace](http://cran.r-project.org/web/packages/colorspace/),
   a color space manipulation tool.
