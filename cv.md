@@ -122,9 +122,13 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Talks
 
+- Water Resource Seminar Series, University of Idaho, ID, Sep. 3, 2013,
+  Optimization of water-level monitoring networks in the
+  eastern Snake River Plain aquifer using a kriging-based genetic algorithm
+  method.
 - USGS National Water Data Conference, Portland, OR, Sep. 25, 2012,
   Optimization of water-table monitoring networks in the eastern Snake River
-  Plain aquifer using a kriging-based genetic algorithm methodology.
+  Plain aquifer using a kriging-based genetic algorithm method.
 - Water Resource Seminar Series, University of Idaho, ID, Sep. 27, 2011,
   A comparison of USGS 3-D model estimates of groundwater source areas and
   velocities to independently-derived estimates, INL and vicinity.
