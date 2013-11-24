@@ -5,3 +5,9 @@ Imports: tcltk, GA
 License: file LICENSE
 MD5sum: 24b531562a9f3aa3a658111fe6d2b6b4
 NeedsCompilation: no
+
+Package: wrv
+Version: 0.1-0
+Depends: R (>= 3.0), sp, rgdal, raster, igraph, rgeos
+Suggests: RCurl, knitr, xtable, png
+License: file LICENSE
