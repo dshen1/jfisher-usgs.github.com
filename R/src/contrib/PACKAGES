@@ -12,4 +12,4 @@ Depends: R (>= 3.0), sp, rgdal, raster, igraph, rgeos
 Suggests: RCurl, knitr, xtable, png
 License: file LICENSE
 MD5sum: a0e250e8dcf52c7a40bf110c9e9799bc
-NeedsCompilation: yes
+NeedsCompilation: no
