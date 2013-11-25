@@ -5,7 +5,7 @@ Imports: tcltk, GA
 License: file LICENSE
 
 Package: wrv
-Version: 0.1-0
+Version: 0.1-1
 Depends: R (>= 3.0), sp, rgdal, raster, igraph, rgeos
 Suggests: RCurl, knitr, xtable, png
 License: file LICENSE
