@@ -13,3 +13,12 @@ Suggests: RCurl, knitr, xtable, png
 License: file LICENSE
 MD5sum: bb6b55c96bbd426fb6d285c5ceefcaef
 NeedsCompilation: no
+
+Package: Trends
+Version: 0.1-4
+Depends: R (>= 3.0)
+Imports: MASS, NADA, sp, rgdal
+Suggests: knitr
+License: file LICENSE
+MD5sum: 70ae80166833fdcb8e23c5632a34f8e4
+NeedsCompilation: no
