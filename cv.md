@@ -24,7 +24,7 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 - B.S. in Environmental Resources Engineering, HSU,
   water resources emphasis, received May 1998
 
-### Experience
+### Employment
 
 - 2008--present, Hydrologist, U.S. Geological Survey
   ([USGS](http://id.water.usgs.gov/projects/INL/)),
@@ -48,8 +48,11 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 - 1997--00, Hydrologic Technician, USDA Forest Service, Pacific Southwest
   Research Station, RSL
 
-### Certificates and Honors
+### Honors and Certificates
 
+- Best groundwater report of 2013 from a USGS Water Science Center for
+  "Optimization of water-level monitoring networks in the eastern Snake River
+  Plain aquifer using a kriging-based genetic algorithm method".
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year
 - Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php),
@@ -61,7 +64,8 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
   (DOE/ID-22224), 74 p.,
-  [html](http://pubs.usgs.gov/sir/2013/5120/)
+  [html](http://pubs.usgs.gov/sir/2013/5120/),
+  [news](http://www.circleofblue.org/waternews/2013/world/moneyball-for-groundwater-monitoring-networks/)
 - Twining, B.V., and **Fisher, J.C.**, 2012, Multilevel groundwater monitoring
   of hydraulic head and temperature in the eastern Snake River Plain aquifer,
   Idaho National Laboratory, Idaho, 2009--10: U.S. Geological Survey Scientific
@@ -122,6 +126,10 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Talks
 
+- American Geophysical Union ([AGU](http://www.agu.org/))
+  Fall Meeting, San Francisco, CA, Dec. 13, 2013,
+  Optimization of water-table monitoring networks in the eastern Snake River
+  Plain aquifer using a kriging-based genetic algorithm method.
 - Water Resource Seminar Series, University of Idaho, ID, Sep. 3, 2013,
   Optimization of water-level monitoring networks in the
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
@@ -136,8 +144,7 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
   2011, An evaluation of the USGS 3-D model using backward particle-tracking
   to compare model-derived to independently-derived estimates of the source
   and age of groundwater.
-- American Geophysical Union ([AGU](http://www.agu.org/))
-  Fall Meeting, San Francisco, CA, Dec. 14, 2010,
+- AGU Fall Meeting, San Francisco, CA, Dec. 14, 2010,
   Multilevel groundwater monitoring of hydraulic head and temperature in the
   eastern Snake River Plain (ESRP) aquifer, 2007--08.
 - Idaho State University ([ISU](http://geology.isu.edu/)) Department of
@@ -177,17 +184,6 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 - AGU Chapman Conference on State-of-the-Art in Hillslope Hydrology, Sunriver,
   OR, Oct. 8, 2001, Simulation of partially saturated--saturated flow in
   the Caspar Creek E-Road groundwater system.
-
-### Software
-
-- Author of [RSurvey](https://github.com/jfisher-usgs/RSurvey),
-  a pre- and post-processor for spatially distributed data;
-  [ObsNetwork](https://github.com/jfisher-usgs/ObsNetwork),
-  evaluates and optimizes long-term monitoring networks; and
-  [Grid2Polygons](https://github.com/jfisher-usgs/Grid2Polygons),
-  converts spatial grids to polygons.
-- Co-author of [colorspace](http://cran.r-project.org/web/packages/colorspace/),
-  a color space manipulation tool.
 
 ### Service
 
