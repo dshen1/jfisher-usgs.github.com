@@ -50,7 +50,8 @@ Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Honors and Certificates
 
-- Best groundwater report of 2013 from a USGS Water Science Center for
+- [Best groundwater report](http://water.usgs.gov/usgs/ogw/best-report/)
+  of 2013 from a USGS Water Science Center for
   "Optimization of water-level monitoring networks in the eastern Snake River
   Plain aquifer using a kriging-based genetic algorithm method".
 - UCLA Civil and Environmental Engineering departmental fellowship,
