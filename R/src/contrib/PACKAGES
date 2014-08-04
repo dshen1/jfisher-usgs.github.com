@@ -1,9 +1,9 @@
 Package: ObsNetwork
-Version: 0.1-9
-Depends: R (>= 3.0), sp, rgdal, gstat, raster
+Version: 0.2-0
+Depends: R (>= 3.1), sp, rgdal, gstat, raster
 Imports: tcltk, GA
 License: file LICENSE
-MD5sum: 24b531562a9f3aa3a658111fe6d2b6b4
+MD5sum: bb28d8b85b689ef9f06276cf143e41fc
 NeedsCompilation: no
 
 Package: Trends
