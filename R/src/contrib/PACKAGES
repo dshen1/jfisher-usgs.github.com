@@ -12,5 +12,5 @@ Depends: R (>= 3.1)
 Imports: survival
 Suggests: rgdal, knitr
 License: file LICENSE
-MD5sum: 9bfc12daf5820f3f21080a928d28bce8
+MD5sum: ae6be6be27f9ccfc291bf3b13cb5ffc9
 NeedsCompilation: no
