@@ -1,0 +1,6 @@
+Package: Trends
+Version: 0.2-0
+Depends: R (>= 3.1)
+Imports: survival
+Suggests: rgdal, knitr
+License: file LICENSE
