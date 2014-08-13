@@ -7,24 +7,24 @@ tags: [spatial, package]
 ---
 {% include JB/setup %}
 
-I'd like to introduce you to the *Grid2Polygons* function; an 
+I'd like to introduce you to the *Grid2Polygons* function; an
 [R](http://www.r-project.org/) function for
-converting **sp** spatial objects from class *SpatialGridDataFrame* 
-to *SpatialPolygonsDataFrame*. 
+converting **sp** spatial objects from class *SpatialGridDataFrame*
+to *SpatialPolygonsDataFrame*.
 The significance of this conversion is that
-spatial polygons can be transformed to a different projection or datum with 
-the *spTransform* function in package **rgdal**. 
-Postscript files created with spatial polygons are reduced in size and result 
-in a much "cleaner" version of your image. Disadvantages of the conversion 
-include long computational times and irreversible leveling, 
-partitioning the range of *z* values. 
+spatial polygons can be transformed to a different projection or datum with
+the *spTransform* function in package **rgdal**.
+Postscript files created with spatial polygons are reduced in size and result
+in a much "cleaner" version of your image. Disadvantages of the conversion
+include long computational times and irreversible leveling,
+partitioning the range of *z* values.
 A general explanation of the algorithm is provided
 [here](http://stackoverflow.com/questions/643995/algorithm-to-merge-adjacent-rectangles-into-polygon});
 inspiration provided
 [here](http://menugget.blogspot.com/2012/04/create-polygons-from-matrix.html).
 
-To access the function install the 
-[Grid2Polygons](http://cran.r-project.org/web/packages/Grid2Polygons/index.html) 
+To access the function install the
+[Grid2Polygons](http://cran.r-project.org/web/packages/Grid2Polygons/index.html)
 package ([source](https://github.com/jfisher-usgs/Grid2Polygons)):
 
 {% highlight r %}
@@ -72,13 +72,14 @@ text(cbind(xc, yc), labels = z)
 text(cbind(x = x + 0.1, y = rev(y + 0.1)), labels = 1:42, cex = 0.6)
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig1.png) 
+![center](/figs/2012-06-25-grid2polygons/fig1.png)
+
 ##### Figure 1: Simple spatial grid data frame.
 
-Convert the grid to spatial polygons and overlay in plot (**fig. 2**). 
-Leveling is specified with cut locations at 1, 2, 3, 4, and 5, and 
+Convert the grid to spatial polygons and overlay in plot (**fig. 2**).
+Leveling is specified with cut locations at 1, 2, 3, 4, and 5, and
 *z*-values set equal to the midpoint between breakpoints. A "winding rule"
-is used to determine if a polygon ring is filled (island) or is a 
+is used to determine if a polygon ring is filled (island) or is a
 hole in another polygon.
 
 {% highlight r %}
@@ -90,14 +91,15 @@ y <- rep(0:5, each = n + 1)
 legend("top", legend = plys[[1]], fill = cols, bty = "n", xpd = TRUE, inset = c(0, -0.1), ncol = 4)
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig2.png) 
+![center](/figs/2012-06-25-grid2polygons/fig2.png)
+
 ##### Figure 2: Simple gridded data represented with spatial polygons.
 
 
 ## Example 2
 
-Apply the conversion function to the *meuse* data set, 
-included in the **sp** package. 
+Apply the conversion function to the *meuse* data set,
+included in the **sp** package.
 The effect of leveling is shown in **figure 3**.
 
 {% highlight r %}
@@ -121,13 +123,14 @@ title("level = TRUE", line = -7)
 par(op)
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig3.png) 
+![center](/figs/2012-06-25-grid2polygons/fig3.png)
+
 ##### Figure 3: Distance from river represented with spatial polygons.
 
 ## Example 3
 
-A real-world example using topographic information on the 
-eastern Snake River Plain; raster plot shown in **figure 4**. 
+A real-world example using topographic information on the
+eastern Snake River Plain; raster plot shown in **figure 4**.
 
 {% highlight r %}
 library(rgdal)
@@ -137,13 +140,14 @@ op <- par(oma = c(0, 0, 0, 0), mar = c(0, 0, 0, 0))
 image(DEM, breaks = at, col = terrain.colors(length(at) - 1))
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig4.png) 
+![center](/figs/2012-06-25-grid2polygons/fig4.png)
+
 ##### Figure 4: Topographic information represented with a raster image.
 
-Convert the grid to spatial polygons (**fig. 5**). 
-The conversion took 22.7 seconds on my machine. 
-The size of the postscript file created from the polygon image (1.89 MB) is 
-82.6 percent smaller than the size of the raster image file (10.86 MB). 
+Convert the grid to spatial polygons (**fig. 5**).
+The conversion took 22.7 seconds on my machine.
+The size of the postscript file created from the polygon image (1.89 MB) is
+82.6 percent smaller than the size of the raster image file (10.86 MB).
 
 {% highlight r %}
 dem.plys <- Grid2Polygons(DEM, level = TRUE, at = at)
@@ -153,7 +157,8 @@ cols <- terrain.colors(length(at) - 1)[col.idxs]
 plot(dem.plys, border = "transparent", col = cols)
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig5.png) 
+![center](/figs/2012-06-25-grid2polygons/fig5.png)
+
 ##### Figure 5: Topographic information represented with spatial polygons.
 
 Finally, transform the projection of the spatial polygons object
@@ -165,5 +170,6 @@ plot(dem.plys.trans, border = "transparent", col = cols)
 par(op)
 {% endhighlight %}
 
-![center](/figs/2012-06-25-grid2polygons/fig6.png) 
+![center](/figs/2012-06-25-grid2polygons/fig6.png)
+
 ##### Figure 6: Topographic information represented with spatial polygons and new projection.

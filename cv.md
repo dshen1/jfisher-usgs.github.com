@@ -8,8 +8,8 @@ header: cv
 
 ### Contact
 
-USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415
-Email: jfisher@usgs.gov; Telephone: 208-526-2158
+- USGS INL Project Office, 1955 Fremont Ave. (MS 1160), Idaho Falls, ID 83415
+- Email: jfisher@usgs.gov; Telephone: 208-526-2158
 
 ### Education
 

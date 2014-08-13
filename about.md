@@ -12,4 +12,5 @@ My interests include groundwater modeling, optimization techniques, [infographic
 See [curriculum vitae](/cv.html) for additional information.
 
 ![center](/figs/tower.jpg)
+
 ##### "Hills cherish the ambition to turn into partial differential equations." --Donald Hall
