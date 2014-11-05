@@ -5,7 +5,7 @@ Imports: tcltk, GA
 License: file LICENSE
 
 Package: Trends
-Version: 0.2-0
+Version: 0.2-1
 Depends: R (>= 3.1)
 Imports: survival
 Suggests: rgdal, knitr
