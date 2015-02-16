@@ -20,7 +20,7 @@ your GitHub *username*). Don't run any of their suggested setup commands.
 
 ## Jekyll-Bootstrap
 
-Open a GitBash window, a command prompt with access to [Git](http://git-scm.com/),
+Open a Git Bash window, a command prompt with access to [Git](http://git-scm.com/),
 and install Jekyll-Bootstrap:
 
     $ git clone https://github.com/plusjade/jekyll-bootstrap.git jfisher-usgs.github.com
@@ -55,7 +55,7 @@ Install [Python](http://python.org/), available [here](http://python.org/downloa
 the file I downloaded was *python-2.7.3.msi*. Add *C:/Python27* to your
 PATH, a system environment variable.
 
-In order to install Pygments through the easy_install command, open a GitBash window and
+In order to install Pygments through the easy_install command, open a Git Bash window and
 install [Distribute](http://pypi.python.org/pypi/distribute#installation-instructions):
 
     $ curl -O http://python-distribute.org/distribute_setup.py
@@ -78,7 +78,7 @@ error running Pygmentize:
 
     Liquid error: Bad file descriptor
 
-Open a GitBash window and install the patch:
+Open a Git Bash window and install the patch:
 
     $ cd C:/Ruby193/lib/ruby/gems/1.9.1/gems/albino-1.3.3/lib
     $ wget https://raw.github.com/gist/1185645/0001-albino-windows-refactor.patch
@@ -92,21 +92,21 @@ The development kit is available [here](http://rubyinstaller.org/downloads);
 the file I downloaded was *DevKit-tdm-32-4.5.2-20111229-1559-sfx.exe*.
 Extract files into *C:/RubyDevKit*.
 
-Open a GitBash window and install the Jekyll ruby gem:
+Open a Git Bash window and install the Jekyll ruby gem:
 
     $ cd C:/RubyDevKit
     $ ruby dk.rb init
     $ ruby dk.rb install
     $ gem install jekyll
 
-Open a GitBash window and start a Jekyll Server:
+Open a Git Bash window and start a Jekyll Server:
 
     $ cd D:/Software/jfisher-usgs.github.com
     $ jekyll --server
 
 This will start a local server that will serve up your blog while you are
 working locally. See it in your browser at <http://localhost:4000>.
-As long as you leave this GitBash window open you'll have
+As long as you leave this Git Bash window open you'll have
 the server running at that port to test your code locally.
 
 ## Providers
@@ -162,6 +162,6 @@ help with content creation in your favorite text editor.
 
 ## References
 
-<http://jekyllbootstrap.com/lessons/jekyll-introduction.html>  
-<http://zolomon.com/tutorial/2012/02/23/setting-up-jekyll-on-windows-7>  
+<http://jekyllbootstrap.com/lessons/jekyll-introduction.html>
+<http://zolomon.com/tutorial/2012/02/23/setting-up-jekyll-on-windows-7>
 <http://twitter.github.com/bootstrap/index.html>
