@@ -178,7 +178,7 @@ header: cv
 ### Posters
 
 - AGU Fall Meeting, San Francisco, CA, Dec. 19, 2014, wrv: An R package for
-  groundwater flow model construction, Wood River Valley Aquifer System, Idaho.
+  groundwater flow model construction, Wood River Valley aquifer system, Idaho.
 - USGS National Groundwater Workshop, Denver, CO, Aug. 7, 2012, A comparison
   of model estimates of groundwater source areas and velocities to
   independently-derived estimates.
