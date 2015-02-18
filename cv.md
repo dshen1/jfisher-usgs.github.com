@@ -66,7 +66,7 @@ header: cv
   influenced by wastewater disposal at the Idaho National Laboratory,
   Idaho, 1981--2012: U.S. Geological Survey Scientific Investigations Report
   2015-5003 (DOE/ID-22233), 106 p.,
-  [html](http://dx.doi.org.10.3133/sir20155003).
+  [html](http://pubs.usgs.gov/sir/2015/5003/).
 - **Fisher, J.C.**, 2013, Optimization of water-level monitoring networks in the
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
