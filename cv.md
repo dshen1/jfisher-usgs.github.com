@@ -52,7 +52,8 @@ header: cv
 
 - Best groundwater report of 2013 from a USGS Water Science Center for
   "Optimization of water-level monitoring networks in the eastern Snake River
-  Plain aquifer using a kriging-based genetic algorithm method".
+  Plain aquifer using a kriging-based genetic algorithm method"
+  ([intranet](http://water.usgs.gov/usgs/ogw/best-report/)).
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year
 - Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php),
@@ -60,6 +61,12 @@ header: cv
 
 ### Publications
 
+- Davis, L.C., Bartholomay, R.C., **Fisher, J.C.**, and Maimer, N.V., 2015,
+  Water-quality characteristics and trends for selected wells possibly
+  influenced by wastewater disposal at the Idaho National Laboratory,
+  Idaho, 1981--2012: U.S. Geological Survey Scientific Investigations Report
+  2015-5003 (DOE/ID-22233), 106 p.,
+  [html](http://dx.doi.org.10.3133/sir20155003).
 - **Fisher, J.C.**, 2013, Optimization of water-level monitoring networks in the
   eastern Snake River Plain aquifer using a kriging-based genetic algorithm
   method: U.S. Geological Survey Scientific Investigations Report 2013-5120
@@ -126,6 +133,9 @@ header: cv
 
 ### Talks
 
+- USGS Office of Groundwater cyber seminar series, Oct. 9, 2014,
+  A path toward reproducible research
+  ([intranet](http://water.usgs.gov/usgs/ogw/cyber-seminars/20141009-fisher/)).
 - American Geophysical Union ([AGU](http://www.agu.org/))
   Fall Meeting, San Francisco, CA, Dec. 13, 2013,
   Optimization of water-table monitoring networks in the eastern Snake River
@@ -167,7 +177,9 @@ header: cv
 
 ### Posters
 
-- USGS National Groundwater Workshop, Denver, CO, August, 7, 2012, A comparison
+- AGU Fall Meeting, San Francisco, CA, Dec. 19, 2014, wrv: An R package for
+  groundwater flow model construction, Wood River Valley Aquifer System, Idaho.
+- USGS National Groundwater Workshop, Denver, CO, Aug. 7, 2012, A comparison
   of model estimates of groundwater source areas and velocities to
   independently-derived estimates.
 - AGU Fall Meeting, San Francisco, CA, Dec. 7, 2011, Comparing model-derived to
