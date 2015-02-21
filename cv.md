@@ -56,7 +56,7 @@ header: cv
   ([intranet](http://water.usgs.gov/usgs/ogw/best-report/)).
 - UCLA Civil and Environmental Engineering departmental fellowship,
   2000--01 academic year
-- Engineer-In-Training, [FE exam](http://www.ncees.org/Exams/FE_exam.php),
+- Engineer-In-Training, [FE exam](http://ncees.org/exams/fe-exam/),
   license number XE104350, issued on Jan. 29, 1998
 
 ### Publications
