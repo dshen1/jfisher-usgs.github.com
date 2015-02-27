@@ -27,7 +27,7 @@ header: cv
 ### Employment
 
 - 2008--present, Hydrologist, U.S. Geological Survey
-  ([USGS](http://id.water.usgs.gov/projects/INL/)),
+  ([USGS](http://id.water.usgs.gov/INL/)),
   Idaho Water Science Center, Idaho National Laboratory Project Office
 - 2008, Research Engineer, UCLA, Center for Embedded Networked Sensing
   ([CENS](http://research.cens.ucla.edu/)), research and lecturing duties
